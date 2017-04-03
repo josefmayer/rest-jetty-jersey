@@ -10,7 +10,7 @@ JSE, Jetty, Jersey
 
 
 ##### Build jar, Run jar
-*mvn package* < br/>
+*mvn package* <br />
 *java -jar target/name-jar-with-dependencies.jar* <br/>
 size of jar-file: 5MB
 
